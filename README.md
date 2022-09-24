@@ -2,8 +2,8 @@
 
 This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-section-RYc0ot-3Bz)
+- Live Site URL: [Add live site URL here](https://anubis356.github.io/Testimonials-grid-section/public/)
 
 ## Table of contents
 
