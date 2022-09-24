@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 13px;
+  font-family: "Barlow Semi Condensed", sans-serif;
+  font-weight: 500;
+}
+
+body {
+  background-color: #ecf2f8;
+  line-height: 1.5;
+}
+
+.grid {
+  display: grid;
+  max-width: 1440px;
+  grid-template-columns: repeat(4, 1fr);
+  margin: 100px auto;
+  gap: 25px;
+}
+
+.card {
+  background-color: #FFF;
+  padding: 30px;
+  border-radius: 10px;
+}
+.card header {
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}
+.card header img {
+  height: 40px;
+  width: 40px;
+  margin-right: 20px;
+  border-radius: 50%;
+  border: 2px solid #a072eb;
+}
+.card header h3 {
+  font-size: 15px;
+}
+.card header p {
+  opacity: 50%;
+}
+.card .title {
+  font-weight: 600;
+  font-size: 1.7rem;
+  margin: 20px 0;
+}
+.card .description {
+  line-height: 1.8;
+  opacity: 70%;
+}
+.card:nth-child(1) {
+  background-image: url("./../img/bg-pattern-quotation.svg");
+  background-repeat: no-repeat;
+  background-position: top 2px right 25%;
+  background-color: #7541c8;
+  color: #ecf2f8;
+  grid-column: 1/3;
+}
+.card:nth-child(2) {
+  background-color: #48556a;
+  color: #ecf2f8;
+  grid-column: 3/4;
+}
+.card:nth-child(3) {
+  grid-column: 1/2;
+}
+.card:nth-child(4) {
+  background-color: #19212e;
+  color: #ecf2f8;
+  grid-column: 2/4;
+}
+.card:nth-child(5) {
+  grid-column: 4/5;
+  grid-row: 1/3;
+}
+
+@media (max-width: 768px) {
+  .grid {
+    padding: 0 15px;
+    grid-template-columns: 1fr;
+    width: 100%;
+  }
+  .card:nth-child(1) {
+    grid-column: 1;
+  }
+  .card:nth-child(2) {
+    grid-column: 1;
+  }
+  .card:nth-child(3) {
+    grid-column: 1;
+  }
+  .card:nth-child(4) {
+    grid-column: 1;
+  }
+  .card:nth-child(5) {
+    grid-column: 1;
+    grid-row: 5;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
