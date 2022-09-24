@@ -35,5 +35,5 @@ They Didn't Ask For Typescript so i used it
 
 ### Acknowledgments
 
-[Brad Traversy](https://www.youtube.com/c/TraversyMedia)
-[Jack Herrington](https://www.youtube.com/c/JackHerrington)
+- [Brad Traversy](https://www.youtube.com/c/TraversyMedia)
+- [Jack Herrington](https://www.youtube.com/c/JackHerrington)
