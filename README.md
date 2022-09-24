@@ -5,6 +5,8 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-section-RYc0ot-3Bz)
 - Live Site URL: [Add live site URL here](https://anubis356.github.io/Testimonials-grid-section/public/)
 
+They Didn't Ask For Typescript so i used it
+
 ## Table of contents
 
 - [Screenshot](#screenshot)
@@ -21,6 +23,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 - Semantic HTML5 markup
 - CSS
 - Sass (CSS Pre-processor)
+- Typescript (DOM, Fetch Api, Promises, Types)
 - Flexbox
 - CSS Grid
 - Mobile-first workflow*
@@ -33,3 +36,4 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 ### Acknowledgments
 
 [Brad Traversy](https://www.youtube.com/c/TraversyMedia)
+[Jack Herrington](https://www.youtube.com/c/JackHerrington)
