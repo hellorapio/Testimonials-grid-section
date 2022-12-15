@@ -31,7 +31,7 @@ They Didn't Ask For Typescript so i used it
 ### Author
 
 - Frontend Mentor - [@anubis356](https://www.frontendmentor.io/profile/anubis356/)
-- Twitter - [@raapio](https://www.twitter.com/raapio)
+- Twitter - [@hellorapio](https://www.twitter.com/hellorapio)
 
 ### Acknowledgments
 
